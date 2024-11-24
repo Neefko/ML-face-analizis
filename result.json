@@ -1,0 +1,1 @@
+{"verified": false, "distance": 0.861409111001357, "threshold": 0.68, "model": "VGG-Face", "detector_backend": "opencv", "similarity_metric": "cosine", "facial_areas": {"img1": {"x": 36, "y": 84, "w": 152, "h": 152, "left_eye": [138, 139], "right_eye": [74, 141]}, "img2": {"x": 375, "y": 184, "w": 444, "h": 444, "left_eye": [665, 409], "right_eye": [514, 353]}}, "time": 3.65}
